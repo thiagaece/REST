@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14977" started-at="2020-02-19T01:31:51 IST" finished-at="2020-02-19T01:32:06 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14977" started-at="2020-02-19T01:31:51 IST" finished-at="2020-02-19T01:32:06 IST">
+      <class name="crm.Test1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:crm.Test1@1f57539]" name="beforeTest" is-config="true" duration-ms="11397" started-at="2020-02-19T01:31:51 IST" finished-at="2020-02-19T01:32:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:crm.Test1@1f57539]" name="testCase1" duration-ms="2820" started-at="2020-02-19T01:32:03 IST" finished-at="2020-02-19T01:32:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:crm.Test1@1f57539]" name="afterTest" is-config="true" duration-ms="727" started-at="2020-02-19T01:32:05 IST" finished-at="2020-02-19T01:32:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- crm.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

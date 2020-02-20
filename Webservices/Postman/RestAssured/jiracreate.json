@@ -1,0 +1,13 @@
+{
+    "fields": {
+       "project":
+       {
+          "id": "10000"
+       },
+       "summary": "New Defect",
+       "description": "Using Rest Assured",
+       "issuetype": {
+          "name": "Bug"
+       }
+   }
+}
